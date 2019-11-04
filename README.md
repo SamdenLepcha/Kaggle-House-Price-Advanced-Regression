@@ -8,6 +8,9 @@
   <li>Navigate to the directory where the extracted file is located and click on it.</li>
  </ol> 
 <h3>Dependencies</h3>
+
+<img align="right" width="350" height="200" src="https://www.laoistoday.ie/wp-content/uploads/2019/01/house-graph.jpg">
+
 <ul>
   <li>Data Analysis</li>
     <ul>
