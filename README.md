@@ -1,5 +1,8 @@
 # Kaggle-House-Price-Advanced-Regression
-<font size ="12">I have enclosed an IPython Notebook in this repository which contains all the details related to my approach to this beginner regression problem. My aim for this repository is to provide a guide for those who are new and are interested in this field.</font>
+
+![Snapshot](https://user-images.githubusercontent.com/33536225/68270475-5e3d1a80-0083-11ea-9f7a-114876d676de.JPG)
+
+<font size ="12">I have enclosed an IPython Notebook in this repository which contains all the details related to my approach to this beginner regression problem. My aim for this repository is to provide a guide for those who are new and are interested in this field. The link to the competition can be found <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data">here</a>.</font>
 <br>
 <h3>To run the IPython Notebook locally</h3>
 <ol>
